@@ -22,7 +22,7 @@ Solvra is a free browser extension for LeetCode practice. It schedules each solv
 | ![](screenshots/screenshot-2-problem.png) | ![](screenshots/screenshot-5-popup-ai.png) |
 
 ## Install (Chrome, Brave or Edge) - 1 minute
-1. Download **`solvra-1.6.x.zip (latest)`** from the [latest release](../../releases/latest) and **unzip** it into a folder you'll keep (for example `Documents\Solvra`).
+1. Download the **`solvra-….zip`** file from the [latest release](../../releases/latest) and **unzip** it into a folder you'll keep (for example `Documents\Solvra`).
 2. Open the extensions page:
    - Chrome: `chrome://extensions`
    - Brave: `brave://extensions`
