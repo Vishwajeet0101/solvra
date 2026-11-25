@@ -44,6 +44,5 @@ See [PRIVACY.md](PRIVACY.md). In short: no server and no tracking. Only your sol
 
 ## Credits
 - Created by [Vishwajeet](https://github.com/Vishwajeet0101).
-- Built with the help of **[Claude](https://claude.ai)** by Anthropic (Claude Code), co-author of the code and design.
 
 Not affiliated with LeetCode, GitHub, OpenAI or Google.
